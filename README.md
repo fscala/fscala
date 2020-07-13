@@ -6,4 +6,4 @@
 - 💬 Ask me about my quarentine life
 - ⚡ Fun fact, TBD
 
-https://img.shields.io/twitter/url?style=social&url=https://twitter/fabiii21
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https://twitter/fabiii21)](https://twitter.com/fabiii21)  
